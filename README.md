@@ -10,14 +10,12 @@ Currently supports the following features:
 More stats on the way. Feature suggestions are welcome.
 
 <br/>
-<br/>
 
 ## Web implementation
  - [gocs-grpc-server](https://github.com/AbhilashJN/gocs-grpc-server): A gRPC server which exposes the apis from this library as gRPC services.
  - [gocs-ui-web](https://github.com/AbhilashJN/gocs-ui-web):
  A ReactJS UI for this service, using [grpc-web](https://github.com/grpc/grpc-web).
 
-<br/>
 <br/>
 
 ## Desktop app implementation
